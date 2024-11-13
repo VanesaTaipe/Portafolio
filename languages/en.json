@@ -1,0 +1,44 @@
+{
+  "menu": {
+    "item2": "About Me",
+    "item3": "Skills",
+    "item4": "Education",
+    "item5": "Projects",
+    "item6": "Contact"
+  },
+  "home": {
+    "home_text-1": "Hi! I am",
+    "home_text-3": "Computer Engineer",
+    "parrafo-info": "Computer Engineering student focused on programming, data analysis, and machine learning. Passionate about creating innovative tech solutions and committed to continuous learning.",
+    "cv_button": "Download CV",
+    "contact_button": "Contact"
+  },
+  "sobre-mi": {
+    "title": "About Me",
+    "texto_sobreMi": "I am a Computer Engineering student at Universidad Peruana Cayetano Heredia, currently in my 8th semester. I specialize in programming, data analysis, and machine learning.<br><br>I hold certifications in SCRUM, Business Intelligence, and AWS Cloud Foundations, which complement my technical training. My experience includes an internship in the Translational Research and Computational Biology Laboratory.<br><br>I am a creative, committed person with a strong capacity for teamwork. My passion for continuous learning and professional growth drives me to constantly seek new challenges."
+  },
+  "habilidades": {
+    "title": "Skills",
+    "subtitle-tecnicas": "Technical Skills",
+    "subtitle-blandas": "Soft Skills"
+  },
+  "formacion": {
+    "title": "Education",
+    "formacion1": "Computer Engineering",
+    "tiempo-formacion1": "2021 - Present",
+    "formacion2": "SCRUM Foundation Professional Certification",
+    "formacion3": "Business Intelligence Foundation Professional Certification"
+  },
+  "proyectos": {
+    "title": "Projects",
+    "title-proyecto1": "Real-Time Seat Detection and Counting in the UPCH Dining Hall using YOLO",
+    "info-proyecto1": "Development of a system to identify lunchtime availability using YOLOv9 and OpenCV.",
+    "title-proyecto2": "Music Recommendation System",
+    "info-proyecto2": "Development of a music recommendation system using machine learning techniques, implementing collaborative filtering and SVD with CUR in Python.",
+    "title-proyecto3": "Biomedical Image Segmentation",
+    "info-proyecto3": "Development of a model using U-Net, implementing preprocessing techniques and evaluation through IoU and Sørensen-Dice metrics."
+  },
+  "contacto": {
+    "title": "Contact"
+  }
+}

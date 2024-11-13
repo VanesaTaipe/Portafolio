@@ -1,0 +1,45 @@
+{
+  "menu": {
+    "item2": "Sobre mí",
+    "item3": "Habilidades",
+    "item4": "Formación",
+    "item5": "Proyectos",
+    "item6": "Contacto"
+  },
+  "home": {
+    "home_text-1": "Hola! Soy",
+    "home_text-2": "Vanesa Morales",
+    "home_text-3": "Ingeniera Informática",
+    "parrafo-info": "Estudiante de Ingeniería Informática con enfoque en programación, análisis de datos y machine learning. Apasionada por crear soluciones tecnológicas innovadoras y comprometida con el aprendizaje continuo.",
+    "cv_button": "Descargar CV",
+    "contact_button": "Contacto"
+  },
+  "sobre-mi": {
+    "title": "Sobre mí",
+    "texto_sobreMi": "Soy estudiante de Ingeniería Informática en la Universidad Peruana Cayetano Heredia, actualmente cursando el VIII ciclo. Me especializo en programación, análisis de datos y machine learning. Cuento con certificaciones en SCRUM, Business Intelligence y AWS Cloud Foundations, que complementan mi formación técnica. Mi experiencia incluye un período como pasante en el Laboratorio de Investigación Traslacional y Biología Computacional. Soy una persona creativa, comprometida y con gran capacidad para el trabajo en equipo. Mi pasión por el aprendizaje continuo y el crecimiento profesional me impulsa a buscar constantemente nuevos desafíos."
+  },
+  "habilidades": {
+    "title": "Habilidades",
+    "tecnicas": "Habilidades Técnicas",
+    "blandas": "Habilidades Blandas"
+  },
+  "formacion": {
+    "title": "Formación",
+    "formacion1": "Ingeniería Informática",
+    "tiempo-formacion1": "2021 - En curso",
+    "formacion2": "SCRUM Foundation Professional Certification",
+    "formacion3": "Business Intelligence Foundation Professional Certification"
+  },
+  "proyectos": {
+    "title": "Proyectos",
+    "title-proyecto1": "Detección y conteo de asientos libres en tiempo real en el comedor UPCH con YOLO",
+    "info-proyecto1": "Desarrollo de un sistema para identificar el horario para almorzar utilizando YOLOv9 y OpenCV.",
+    "title-proyecto2": "Sistema de Recomendación de Música",
+    "info-proyecto2": "Desarrollo de un sistema de recomendación musical utilizando técnicas de machine learning, implementando filtrado colaborativo y SVD con CUR en Python.",
+    "title-proyecto3": "Segmentación de Imágenes Biomédicas",
+    "info-proyecto3": "Desarrollo de un modelo utilizando U-Net, implementando técnicas de preprocesamiento y evaluación mediante métricas IoU y Sørensen-Dice."
+  },
+  "contacto": {
+    "title": "Contacto"
+  }
+}
